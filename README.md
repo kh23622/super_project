@@ -11,3 +11,4 @@ over time as we run the workshop.
 The project involves planning the refurbishment and installation
 of a new kitchen.
 
+The project name is super_project
